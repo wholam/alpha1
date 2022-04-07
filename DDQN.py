@@ -8,7 +8,6 @@ import numpy as np
 from tensorflow.keras import optimizers
 import matplotlib.pyplot as plt
 
-# a little change
 class DQN:
     def __init__(
             self,
